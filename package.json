@@ -1,0 +1,21 @@
+{
+  "name": "rewikiex-module-5",
+  "version": "1.0.1",
+  "description": "Open an issue or a pull request rewikiex module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luonghieu184/rewikiex-module-5.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rewiki-exchange": "0.1.1",
+    "rewiki-survey": "1.0.0",
+    "saoviet-caculator": "0.1.0"
+  }
+}
